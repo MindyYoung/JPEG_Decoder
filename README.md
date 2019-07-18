@@ -32,5 +32,3 @@ A JPEG Decoder
 - C++，vs2012
 - 打开JPEG_Decoder.sln，生成exe
 - 在JPEG_Decoder\JPEG_Decoder替换input.jpg（压缩图像）
-
-# JPEG_Decoder
