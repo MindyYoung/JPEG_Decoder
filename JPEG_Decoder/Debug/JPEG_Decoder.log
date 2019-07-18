@@ -1,0 +1,17 @@
+﻿  main.cpp
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(465): warning C4244: “=”: 从“long”转换到“unsigned short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(228): warning C4101: “tmp_sum”: 未引用的局部变量
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(796): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(797): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(798): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(799): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(800): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(801): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(802): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(803): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(1101): warning C4838: 从“double”转换到“short”需要收缩转换
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(1101): warning C4244: “初始化”: 从“double”转换到“short”，可能丢失数据
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(1107): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“short *”
+e:\lab\多媒体通信\jpeg_decoder\jpeg_decoder\main.cpp(670): warning C4715: “huffman_decode”: 不是所有的控件路径都返回值
+  JPEG_Decoder.vcxproj -> E:\lab\多媒体通信\JPEG_Decoder\Debug\JPEG_Decoder.exe
+  JPEG_Decoder.vcxproj -> E:\lab\多媒体通信\JPEG_Decoder\Debug\JPEG_Decoder.pdb (Full PDB)
